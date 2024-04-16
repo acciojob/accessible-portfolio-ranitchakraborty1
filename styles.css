@@ -4,7 +4,7 @@ body {
     font-family: Arial, sans-serif;
 }
 
-nav, main, section {
+nav{
     margin: 20px;
 }
 
